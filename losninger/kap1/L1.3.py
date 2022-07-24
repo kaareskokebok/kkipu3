@@ -1,0 +1,12 @@
+from turtle import *
+shape("turtle")
+forward(75)
+left(120)
+forward(75)
+left(120)
+forward(75)
+left(60)
+forward(75)
+left(120)
+forward(75)
+hideturtle()

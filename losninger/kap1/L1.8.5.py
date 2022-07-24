@@ -1,0 +1,10 @@
+from turtle import *
+forward(100)
+left(60)
+forward(130)
+left(120)
+forward(100)
+left(60)
+forward(130)
+left(120)
+hideturtle()
